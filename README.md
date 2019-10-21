@@ -17,7 +17,3 @@ Growth mindset is having the desire to learn and improve and by believing the br
 * "I can't find a way, **yet**"
 * "Challenges help me grow"
 * "I like to try new things"
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
