@@ -1,34 +1,22 @@
-## Welcome to My Learning Page
+## Welcome to My Learning Journal
 
-My name is Wade Jackson, I like anime and art.
+## What is a Learning Journal?
 
-### Markdown
+A learning journal is a where I'm able to keeep track of what I've learned during the week. I'm able to reflect at the end and reapply the knowledge acquired.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About me
 
-```markdown
-Syntax highlighted code block
+My name is Wade Jackson, I'm study studying engineering, in order to better understand instrumentation. I joined the Cayman Code Academy in order to learn more about the field of coding and to find a way to apply what I learned to the field of instrumentation.
 
-# Header 1
-## Header 2
-### Header 3
+### What is a Growth Mindset
 
-- Bulleted
-- List
+![Growth Mindset](https://miro.medium.com/max/842/1*sL0D3flFssLBJWwyazm3RA.jpeg)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SynSlayer/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Growth mindset is having the desire to learn and improve and by believing the brain is like a muscle, and intelligence can be developed. Also you're able to see critisim as a form of learning and good feedback for their growth. _Common ways to instil a growth mindes include saying;_ 
+* "I can do this"
+* "I can't find a way, **yet**"
+* "Challenges help me grow"
+* "I like to try new things"
 
 ### Support or Contact
 
