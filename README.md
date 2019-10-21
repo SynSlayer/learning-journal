@@ -1,6 +1,6 @@
 ## Welcome to My Learning Page
 
-My name is Wade Jackson, I like art.
+My name is Wade Jackson, I like anime and art.
 
 ### Markdown
 
