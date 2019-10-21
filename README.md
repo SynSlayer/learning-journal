@@ -1,6 +1,6 @@
 ## Welcome to My Learning Journal
 
-## What is a Learning Journal?
+### What is a Learning Journal?
 
 A learning journal is a where I'm able to keeep track of what I've learned during the week. I'm able to reflect at the end and reapply the knowledge acquired.
 
