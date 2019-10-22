@@ -8,29 +8,29 @@ cd mnt/c/
 ```
 * ls = list files in directory
 ``` List files in directory
-ls
+! ls
 ```
 * pwd = present working directory -->
 ```
-pwd
+! pwd
 ```
 * mv = move               --> mv (source) (destination)
 ```
-mv index.html ../users/user/
+! mv index.html ../users/user/
 ```
 * cp = copy               --> cp (source) (destination)
 ```
-cp index.html
+! cp index.html
 ```
 * touch = create file     --> touch (name of file)
 ```
-touch index.html
+! touch index.html
 ```
 * mkdir = make directory  --> mkdir (name of directory)
 ```
-mkdir file\ folder
+! mkdir file\ folder
 ```
 * rm = remove file or directory 
 ```
-rm index.html
+! rm index.html
 ```
