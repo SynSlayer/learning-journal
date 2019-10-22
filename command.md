@@ -1,6 +1,6 @@
 # Command Line Basics
 
-##Common Command Lines
+## Common Command Lines
 
 * cd = Change Directory --> cd (directory)
 ```css
