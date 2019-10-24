@@ -22,4 +22,3 @@ Growth mindset is having the desire to learn and improve and by believing the br
 * "Challenges help me grow"
 * "I like to try new things"
 
-### [NEXT](learning-journal/command.md)
