@@ -1,6 +1,20 @@
-# Command Line Basics
+# Command
 
-## Common Command Lines
+# Text Editors
+A text editor is a software that enables you to write and manage text that’s used to edit the syntax or code of a given language. Text editors make it easier and more decorative. When and error in the syntax is detected some text editors usually highlight the incorrect syntax, this makes it easier to spot the wrong syntax and save on time trying to debug the code.
+
+## Commonly Used Text Editing Software
+
+* Notpad++
+* Sublime Text
+* Atom
+* Brackets
+
+# What is an IDE?
+
+An integrated development environment (IDE) is a software that provides the tools needed for programmers for software development. An IDE normally consists of at least a sourse code editor, build automation tools, and a debugger.
+
+## Common Command Lines Used in an IDE
 
 * cd = Change Directory --> cd (directory)
 ```css
