@@ -1,5 +1,9 @@
 ## Welcome to My Learning Journal
 
+## Table of Contents
+1. [Command Lines](command.md) 
+2. [Git](git.md)
+
 ### What is a Learning Journal?
 
 A learning journal is a where I'm able to keeep track of what I've learned during the week. I'm able to reflect at the end and reapply the knowledge acquired.
